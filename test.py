@@ -1,0 +1,7 @@
+print("hello python")
+print("ni hao")
+print("100-100=",100-100)
+print(format((2*2-1*3)/(3*2-2),".2f"))
+a,b,c=eval(input("输入:"))
+p=0.5*(a+b+c)
+print("输出：%.2f" %(p))
